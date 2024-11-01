@@ -1,0 +1,29 @@
+.corpo {
+   background-color: rgb(91, 236, 91);
+   font-size: 40px;
+}
+
+.label_descricao{
+   position: relative;
+   left: 10;
+   top: 10px;
+   right: 20px;
+   font-size: 15px;
+   color: brown;
+   border:0px solid;
+   margin-left: 15px;
+   margin-right: 15px;
+   border-radius: 6px;
+   font-family: 'Montserrat', Tahoma;
+}
+
+.label_signo{
+   position: relative;
+   left: 10;
+   top: 10px;
+   right: 20px;
+   font-size: 30px;
+   font-style:oblique;
+   color: yellow;
+   font-family: 'Montserrat', Tahoma;
+}
